@@ -9,5 +9,8 @@ package imprimirmensaje;
  * @author Usuario
  */
 public class mensaje {
-    
+     public void mostrarMensaje() {
+        System.out.println("Gracias por elegir nuestra comida");
+    }
+
 }
