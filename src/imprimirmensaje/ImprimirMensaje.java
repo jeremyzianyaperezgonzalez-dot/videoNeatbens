@@ -22,7 +22,7 @@ public class ImprimirMensaje {
         System.out.println(" sopa o crema, enchiladas o carne de pollo, gelatina o arroz con leche");
         mensaje agradecimiento = new mensaje();
         
-        // Llamar al método de la clase Saludo
+     
         agradecimiento.mostrarMensaje();
 
     }
