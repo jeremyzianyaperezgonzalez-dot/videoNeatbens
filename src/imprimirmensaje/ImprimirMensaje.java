@@ -18,6 +18,7 @@ public class ImprimirMensaje {
         System.out.println("hola mundo");
         System.out.println("comida china!!!!!!");
         System.out.println("imprimir menu: ");
+        System.out.println("3 tiempos: ");
     }
     
 }
