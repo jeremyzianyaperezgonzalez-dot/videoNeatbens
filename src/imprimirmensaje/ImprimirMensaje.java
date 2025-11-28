@@ -17,6 +17,7 @@ public class ImprimirMensaje {
         // TODO code application logic here
         System.out.println("hola mundo");
         System.out.println("comida china!!!!!!");
+        System.out.println("imprimir menu: ");
     }
     
 }
