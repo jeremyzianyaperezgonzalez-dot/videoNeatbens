@@ -19,6 +19,7 @@ public class ImprimirMensaje {
         System.out.println("comida china!!!!!!");
         System.out.println("imprimir menu: ");
         System.out.println("3 tiempos: ");
+        System.out.println(" sopa o crema, enchiladas o carne de pollo, gelatina o arroz con leche");
     }
     
 }
